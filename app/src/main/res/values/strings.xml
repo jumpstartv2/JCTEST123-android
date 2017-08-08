@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Template</string>
+
+    <string name="live_url"></string>
+    <string name="staging_url"></string>
+    <string name="client_secret"></string>
+    <string name="hockey_app_id"></string>
+
+
+    <string name="loading">Processing. . .</string>
+</resources>
