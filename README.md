@@ -35,7 +35,7 @@ After cloning this template, you need to update the Package Name to conform to y
 Here are some of the dependencies you need to cater to be able to fully use the project template:
 
 ###### Firebase ######
-* Firebase just replace the contents of "google-services.json" under the app folder of your project directory.
+* just replace the contents of "google-services.json" under the app folder of your project directory.
 * the contents of "google-services.json" is generated from the firebase project console.
 
 ### Contribution guidelines ###
