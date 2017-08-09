@@ -26,10 +26,10 @@ After cloning this template, you need to update the Package Name to conform to y
 * First Changing the directory package:
     * First, go to the project directory in android studio then change the view to "Project"
     * then, click on the settings(the cog wheel symbol) then uncheck the "Compact Empty Middle Packages"
-    * you can refer to this image http://prntscr.com/g66i5c
+    * you can refer to this image https://image.prntscr.com/image/3ADQQa-MTCi8XsLfgdzOTA.png
 * Second open the build.gradle of the project:
     * in the file there are blocks of codes, under android > defaultConfig there is a field applicationId change the package name under that field.
-    * you can refer to this image http://prntscr.com/g66jtt
+    * you can refer to this image https://image.prntscr.com/image/CeUriAVtQiK8F9Of81derQ.png
 
 ### Contribution guidelines ###
 
