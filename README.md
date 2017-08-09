@@ -22,7 +22,7 @@ The following are the configurations already handled within the project:
 ##### Update project template #####
 After cloning this template, you need to update the Package Name to conform to your project specifications. Also, add your preferred prefix to the Project settings so that files created afterwards will be distinct based on the prefix of choice.
 
-There are two steps to update the Package name:
+#####There are two steps to update the Package name:#####
 * First Changing the directory package:
     * First, go to the project directory in android studio then change the view to "Project"
     * then, click on the settings(the cog wheel symbol) then uncheck the "Compact Empty Middle Packages"
