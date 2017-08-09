@@ -14,6 +14,9 @@ This repository is where the Android mobile project template used by **JumpStart
     * HockeyApp
     * ApiClient
     * JSONModel
+    * Push Notifications setup
+    * Project Directory and File Directory structure already prepared
+    * Fastlane
 * Constants and Util files
 * Push Notifications setup
 * Project Directory and File Directory structure already prepared
@@ -42,6 +45,8 @@ Here are some of the dependencies you need to cater to be able to fully use the 
     *  Open your project directory then check **fastlane/AppFile**:
         * Fill/Replace in `package_name` with your project's package name.
         * you can refer to this picture https://image.prntscr.com/image/g4jrMqPgQb6S2lJqPKo47w.png
+    * In your **fastlane/Fastfile**:
+      * Fill in with your project's HockeyApp API token.
 ### Contribution guidelines ###
 
 * Writing tests
