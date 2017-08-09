@@ -25,11 +25,12 @@ After cloning this template, you need to update the Package Name to conform to y
 ####There are two steps to update the Package name:####
 * First Changing the directory package:
     * First, go to the project directory in android studio then change the view to "Project"
-    * then, click on the **settings(the cog wheel symbol)** then uncheck the `Compact Empty Middle Packages`
-    * you can refer to this image http://prntscr.com/g66i5c
+    * then, click on the **settings(the cog wheel symbol)** then uncheck the `Compact Empty Middle Packages`. you can refer to this image https://image.prntscr.com/image/3ADQQa-MTCi8XsLfgdzOTA.png
+    * after that you can now see the package name or directory of the app then `Shift + F6`or `rightclick then click refractor, under refractor click rename`.
+    * then choose rename package name. you can refer https://image.prntscr.com/image/McoQPu3cR5OvNNDNwLpHOA.png
 * Second open the build.gradle of the project:
-    * in the file there are blocks of codes, under **android > defaultConfig** there's a field `applicationId` change the package name under that field.
-    * you can refer to this image http://prntscr.com/g66jtt
+    * in the file there are code blocks, under **android > defaultConfig** there's a field `applicationId` change the package name under that field.
+    * you can refer to this image https://image.prntscr.com/image/CeUriAVtQiK8F9Of81derQ.png
     
 ##### Dependencies #####
 Here are some of the dependencies you need to cater to be able to fully use the project template:
